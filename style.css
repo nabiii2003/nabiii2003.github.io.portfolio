@@ -357,6 +357,9 @@ SP
   .works-item li {
       line-height: 1.8;
   }
+    .works-item h1 {
+    font-weight: normal;
+  }
         
   .skills {
     padding: 30px 30px 100px;
